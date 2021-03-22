@@ -4,7 +4,7 @@ function compareDifferentValues(m, n) {
     return "Equal";
   }
 
-  return "Not Equal";
+  return "Not equal";
 }
 
 compareDifferentValues(8, "8");
